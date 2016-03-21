@@ -8,13 +8,13 @@ $.fullScreenSlide({
             // 类目列表和类目demo详情数据
             widgetData: widgetData,
 
-            // 类目列表父对象名称
+            // 类目列表父对象字符
             widgetObjStr: 'S_Widgets',
 
             // 类目列表对象
             widgetListObj: $('#J_WidgetList'),
 
-            // 类目demo列表父对象名称
+            // 类目demo列表父对象字符
             demosObjStr: 'S_Demos',
 
             // 类目demo列表对象
